@@ -1,2 +1,6 @@
 # HTML-calculator
-Calculadora cria da em html
+Calculadora criada em HTML
+O que falta
+Botão retirar
+Raiz quadrada
+Parentais 
