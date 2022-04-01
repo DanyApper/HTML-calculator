@@ -1,0 +1,27 @@
+#visor{
+   color:blue;
+   font-size:45;
+   text-align:right;
+   height:20%;
+}
+button{
+   color:black;
+  background-color:white;
+  border:none;
+  outline:none;
+  height:60;
+  width:70;
+  font-size:55;
+}
+.light{
+    color:blue;}
+    .equal{
+        height:120;
+        width:70;
+        font-size:55:
+        background-color:lightblue;
+        color:white;
+        border-radius:20;} 
+         .sig{
+             height:70;}
+
